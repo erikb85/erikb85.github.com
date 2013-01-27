@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[erikb85]]></title>
-  <link href="http://erikb85.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: maintenance | erikb85]]></title>
+  <link href="http://erikb85.github.com/blog/categories/maintenance/atom.xml" rel="self"/>
   <link href="http://erikb85.github.com/"/>
   <updated>2013-01-27T01:29:35+01:00</updated>
   <id>http://erikb85.github.com/</id>
@@ -18,7 +18,7 @@
     <link href="http://erikb85.github.com/blog/2013/01/27/hello-world/"/>
     <updated>2013-01-27T01:26:00+01:00</updated>
     <id>http://erikb85.github.com/blog/2013/01/27/hello-world</id>
-    <content type="html"><![CDATA[<p>I guess it wouldn&#8217;t be a technical blog, if it would start in any other way,
+    <content type="html"><![CDATA[<p>I guess it wouldn't be a technical blog, if it would start in any other way,
 right?</p>
 ]]></content>
   </entry>
